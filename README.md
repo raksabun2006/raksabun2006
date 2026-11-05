@@ -1,43 +1,107 @@
-# Hi, I'm Bun Raksa 👋
+# 👋 Hi, I'm Bun Raksa
 
-### Backend & Full-Stack Developer
+### `Full-Stack Developer`
 
-I'm a Computer Science student at the Royal University of Phnom Penh (RUPP) and an IT Expert student at ISTAD. I'm passionate about building reliable backend systems, REST APIs, and full-stack web applications.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=3B82F6&vCenter=true&width=550&lines=Building+Reliable+Backend+Systems;Designing+Clean+REST+APIs;Exploring+Microservices+Architecture;Always+Learning.+Always+Building." />
+</p>
 
-## 🎓 Education
+**I build software with purpose — from backend architecture to user-facing applications.**
 
-- **Royal University of Phnom Penh (RUPP)** — Computer Science
-- **ISTAD** — IT Expert Program
+Computer Science student at **Royal University of Phnom Penh (RUPP)** and IT Expert student at **ISTAD**, passionate about backend engineering, scalable systems, and solving real-world problems through technology.
 
-## 💻 About Me
+[🌐 Portfolio](https://bunraksa.site/) · [💻 GitHub](https://github.com/raksabun2006) · 📍 Phnom Penh, Cambodia
 
-- Focused on backend development and microservices architecture
-- Building applications using Java and Spring Boot
-- Interested in clean architecture, database design, and scalable APIs
-- Continuously improving my software engineering skills
-- 📍 Phnom Penh, Cambodia
+---
 
-## 🛠️ Tech Stack
+## `$ whoami`
 
-**Backend:** Java, Spring Boot, REST APIs
+```java
+public class BunRaksa {
 
-**Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS
+    String role = "Backend & Full-Stack Developer";
+    String primaryLanguage = "Java";
+    String framework = "Spring Boot";
+    String database = "PostgreSQL";
 
-**Database:** PostgreSQL, SQL
+    String currentFocus = "Microservices & Backend Engineering";
 
-**Tools:** Git, GitHub, Docker
+    String mindset = "Learn → Build → Improve";
+}
+```
 
-## 🎯 Current Learning Goals
+- ⚙️ Designing and developing RESTful APIs.
+- 🏗️ Exploring microservices and distributed systems.
+- 🔐 Learning backend security and authentication.
+- 🗄️ Improving database design and performance.
+- 🚀 Turning ideas into practical software projects.
 
-- Develop production-ready REST APIs
-- Learn microservices architecture
-- Improve testing and clean code practices
-- Strengthen database design and optimization
-- Practice Docker and CI/CD
+## `$ tech-stack`
 
-## 📫 Connect With Me
+**Backend & Architecture**
 
-- **Portfolio:** https://bunraksa.site/
-- **GitHub:** https://github.com/raksabun2006
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker&theme=dark" />
+</p>
 
-I'm always eager to learn, build my technical skills, and collaborate with other developers.
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" />
+</p>
+
+**Tools & Environment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman&theme=dark" />
+</p>
+
+## `$ current-focus`
+
+| Area | What I'm improving |
+|:---|:---|
+| Backend Engineering | Advanced Spring Boot & REST APIs |
+| System Architecture | Microservices & distributed systems |
+| Database Engineering | PostgreSQL & query optimization |
+| Backend Security | Spring Security & JWT |
+| DevOps | Docker & CI/CD |
+| Software Quality | Testing & clean code |
+
+## `$ github-stats`
+
+<p align="center">
+ 
+</p>
+
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=raksabun2006&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+## `$ education`
+
+🎓 **Royal University of Phnom Penh**  
+Computer Science
+
+🎓 **Institute of Science and Technology Advanced Development (ISTAD)**  
+IT Expert Program
+
+---
+
+## `$ connect`
+
+<p align="left">
+  <a href="https://bunraksa.site/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/raksabun2006">
+    <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Great engineering is not just about writing code. It's about solving problems."</i>
+  <br/><br/>
+  <sub>Building today. Engineering tomorrow. 🚀</sub>
+</p>
