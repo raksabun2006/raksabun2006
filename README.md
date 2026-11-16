@@ -1,14 +1,10 @@
-# 👋 Hi, I'm Bun Raksa
+# 👋 I'm Bun Raksa
 
 ### `Full-Stack Developer`
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=3B82F6&vCenter=true&width=550&lines=Building+Reliable+Backend+Systems;Designing+Clean+REST+APIs;Developing+with+Java+%26+Spring+Boot;Building+Applications+with+PHP+%26+Laravel;Exploring+Microservices+Architecture." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=3B82F6&vCenter=true&width=550&lines=Building+Reliable+Backend+Systems;Designing+Clean+REST+APIs;Developing+with+Java+%26+Spring+Boot;Building+Applications+with+PHP+%26+Laravel;Exploring+Microservices+Architecture" />
 </p>
-
-**I build software with purpose — from backend architecture to user-facing applications.**
-
-Computer Science student at **Royal University of Phnom Penh (RUPP)** and IT Expert student at **ISTAD**, passionate about backend engineering, scalable systems, and solving real-world problems through technology.
 
 [🌐 Portfolio](https://bunraksa.site/) · [💻 GitHub](https://github.com/raksabun2006) · 📍 Phnom Penh, Cambodia
 
@@ -23,6 +19,7 @@ public class BunRaksa {
 
     String primaryLanguage = "Java";
     String primaryFramework = "Spring Boot";
+
     String secondaryLanguage = "PHP";
     String secondaryFramework = "Laravel";
 
@@ -33,14 +30,6 @@ public class BunRaksa {
     String mindset = "Learn → Build → Improve";
 }
 ```
-
-- ⚙️ Designing and developing RESTful APIs.
-- 🏗️ Exploring microservices and distributed systems.
-- 🐘 Building backend applications with PHP and Laravel.
-- ☕ Developing scalable backend services with Java and Spring Boot.
-- 🔐 Learning backend security and authentication.
-- 🗄️ Improving database design and performance with PostgreSQL and MySQL.
-- 🚀 Turning ideas into practical software projects.
 
 ## `$ tech-stack`
 
